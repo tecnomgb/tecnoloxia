@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>nova</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260608003559B8TW7H</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260608003559QLHKUF</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Prácticas Arduino (4º ESO)</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>gl</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>nova</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780870837562</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mq4cia7x-rdzrcg6oy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Práctica 01</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Práctica 01</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>New page</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Práctica 01</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mq4cia7x-rdzrcg6oy</odePageId>
+      <odeBlockId>block-1780870943992-fd1yxcq6v</odeBlockId>
+      <blockName>Pestanexo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mq4cia7x-rdzrcg6oy</odePageId>
+          <odeBlockId>block-1780870943992-fd1yxcq6v</odeBlockId>
+          <odeIdeviceId>idevice-1780870943990-bkfwwem4r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>OBXECTIVO:</strong></p>
+<ul>
+<li>Facer pestanexar o led de probas (13) a distintos intervalos de tempo.</li>
+</ul>
+<p><a href="https://create.arduino.cc/editor/sindo/3ec4a697-5fe8-44fa-941f-b864c79489c5/preview" target="_blank" rel="noopener"><strong title="">CÓDIGO BÁSICO</strong></a></p>
+<p><strong>ESQUEMA:</strong></p>
+<p><img src="{{context_path}}/content/resources/mceclip0.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>
+<ul>
+<li>Facer pestanexar o LED a distintos intervalos de tempo.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780870943990-bkfwwem4r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><strong>OBXECTIVO:</strong></p>\n<ul>\n<li>Facer pestanexar o led de probas (13) a distintos intervalos de tempo.</li>\n</ul>\n<p><a href=\"https://create.arduino.cc/editor/sindo/3ec4a697-5fe8-44fa-941f-b864c79489c5/preview\" target=\"_blank\" rel=\"noopener\"><strong title=\"\">CÓDIGO BÁSICO</strong></a></p>\n<p><strong>ESQUEMA:</strong></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip0.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>\n<ul>\n<li>Facer pestanexar o LED a distintos intervalos de tempo.<br /></li>\n</ul>","textFeedbackInput":"Amosar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780871166423-zn0xfsy05</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Práctica 02</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Práctica 02</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Práctica 02</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780871166423-zn0xfsy05</odePageId>
+      <odeBlockId>block-1780871166423-eknzbrglm</odeBlockId>
+      <blockName>Intermitencias</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780871166423-zn0xfsy05</odePageId>
+          <odeBlockId>block-1780871166423-eknzbrglm</odeBlockId>
+          <odeIdeviceId>idevice-1780871166424-ordc3lk4w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>OBXECTIVO:</strong></p>
+<ul>
+<li>Facer pestanexar dous LED (saídas dixitais 3 e 4) alternativamente a un intervalo de tempo de un segundo</li>
+</ul>
+<p><a href="https://app.arduino.cc/sketches/3398b24a-3a5f-4f64-b6a2-f96a6ca4bf88?view-mode=preview" target="_blank" rel="noopener"><strong title="">CÓDIGO BÁSICO</strong></a></p>
+<p><strong>ESQUEMA:</strong></p>
+<p><img src="{{context_path}}/content/resources/mceclip1.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>
+<ul>
+<li>Facer pestanexar a distintos intervalos de tempo: un máis tempo que outro... primeiro un, logo o outro e finalmente os dous... etc.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780871166424-ordc3lk4w","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><strong>OBXECTIVO:</strong></p>\n<ul>\n<li>Facer pestanexar dous LED (saídas dixitais 3 e 4) alternativamente a un intervalo de tempo de un segundo</li>\n</ul>\n<p><a href=\"https://app.arduino.cc/sketches/3398b24a-3a5f-4f64-b6a2-f96a6ca4bf88?view-mode=preview\" target=\"_blank\" rel=\"noopener\"><strong title=\"\">CÓDIGO BÁSICO</strong></a></p>\n<p><strong>ESQUEMA:</strong></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip1.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>\n<ul>\n<li>Facer pestanexar a distintos intervalos de tempo: un máis tempo que outro... primeiro un, logo o outro e finalmente os dous... etc.<br /></li>\n</ul>","textFeedbackInput":"Amosar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780871295107-hu1fiuvq7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Práctica 03</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Práctica 03</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Práctica 03</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780871295107-hu1fiuvq7</odePageId>
+      <odeBlockId>block-1780871295108-t5q2949da</odeBlockId>
+      <blockName>Semáforo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780871295107-hu1fiuvq7</odePageId>
+          <odeBlockId>block-1780871295108-t5q2949da</odeBlockId>
+          <odeIdeviceId>idevice-1780871295108-yi0q2ez0a</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>OBXECTIVO:</strong></p>
+<ul>
+<li>Acender alternativamente 3 LED (saídas dixitais 3, 4 e 5) simulando un semáforo (por exemplo: verde 8 segundos, amarelo 2 segundos, vermello 6 segundos.</li>
+</ul>
+<p><a href="https://app.arduino.cc/sketches/cb7c09ce-78c3-4dac-824e-34f60c48c2ea?view-mode=preview" target="_blank" rel="noopener" title=""><strong title="">CÓDIGO BÁSICO</strong></a></p>
+<p><strong>ESQUEMA:</strong></p>
+<p><img src="{{context_path}}/content/resources/mceclip2.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>
+<ul>
+<li>Facer que no proceso de transición de verde a vermello o LED amarelo faga 2 intermitencias de 1 segundo (0,5s acendido - 0,5s apagado - 0,5s acendido - 0,5s apagado).<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780871295108-yi0q2ez0a","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><strong>OBXECTIVO:</strong></p>\n<ul>\n<li>Acender alternativamente 3 LED (saídas dixitais 3, 4 e 5) simulando un semáforo (por exemplo: verde 8 segundos, amarelo 2 segundos, vermello 6 segundos.</li>\n</ul>\n<p><a href=\"https://app.arduino.cc/sketches/cb7c09ce-78c3-4dac-824e-34f60c48c2ea?view-mode=preview\" target=\"_blank\" rel=\"noopener\" title=\"\"><strong title=\"\">CÓDIGO BÁSICO</strong></a></p>\n<p><strong>ESQUEMA:</strong></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip2.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>\n<ul>\n<li>Facer que no proceso de transición de verde a vermello o LED amarelo faga 2 intermitencias de 1 segundo (0,5s acendido - 0,5s apagado - 0,5s acendido - 0,5s apagado).<br /></li>\n</ul>","textFeedbackInput":"Amosar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780871421648-fbkur14zy</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Práctica 04</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Práctica 04</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Práctica 04</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780871421648-fbkur14zy</odePageId>
+      <odeBlockId>block-1780871421648-a84tztvuh</odeBlockId>
+      <blockName>Pulsador</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780871421648-fbkur14zy</odePageId>
+          <odeBlockId>block-1780871421648-a84tztvuh</odeBlockId>
+          <odeIdeviceId>idevice-1780871421648-eyjfpktdm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>OBXECTIVO:</strong></p>
+<ul>
+<li>Acender 1 LED (saída dixital 3) ao premer un pulsador (entrada dixital 2) e que siga acendido 3 segundos máis despois de premer.</li>
+</ul>
+<p><a href="https://app.arduino.cc/sketches/d8822962-7ead-4afa-a1f6-55d221e07db3?view-mode=preview" target="_blank" rel="noopener" title=""><strong title="">CÓDIGO BÁSICO</strong></a></p>
+<p><strong>ESQUEMA:</strong></p>
+<p><img src="{{context_path}}/content/resources/mceclip3.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>
+<ul>
+<li>Facer que o LED no último segundo de acendido faga 2 intermitencias de 1 segundo (0,5s acendido - 0,5s apagado - 0,5s acendido - 0,5s apagado).<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780871421648-eyjfpktdm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><strong>OBXECTIVO:</strong></p>\n<ul>\n<li>Acender 1 LED (saída dixital 3) ao premer un pulsador (entrada dixital 2) e que siga acendido 3 segundos máis despois de premer.</li>\n</ul>\n<p><a href=\"https://app.arduino.cc/sketches/d8822962-7ead-4afa-a1f6-55d221e07db3?view-mode=preview\" target=\"_blank\" rel=\"noopener\" title=\"\"><strong title=\"\">CÓDIGO BÁSICO</strong></a></p>\n<p><strong>ESQUEMA:</strong></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip3.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>\n<ul>\n<li>Facer que o LED no último segundo de acendido faga 2 intermitencias de 1 segundo (0,5s acendido - 0,5s apagado - 0,5s acendido - 0,5s apagado).<br /></li>\n</ul>","textFeedbackInput":"Amosar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1780871589942-zb3g6tjh4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Práctica 05</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Práctica 05</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Práctica 05</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1780871589942-zb3g6tjh4</odePageId>
+      <odeBlockId>block-1780871589942-0bjge6xp2</odeBlockId>
+      <blockName>Zoador musical</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1780871589942-zb3g6tjh4</odePageId>
+          <odeBlockId>block-1780871589942-0bjge6xp2</odeBlockId>
+          <odeIdeviceId>idevice-1780871589942-m0vjneciu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>OBXECTIVO:</strong></p>
+<ul>
+<li>Cando premamos un pulsador colocado no porto 4, un zoador conectado ao porto 2 reproducirá unha serie de notas musicais.</li>
+</ul>
+<p><a href="https://app.arduino.cc/sketches/153fb3a4-ab53-4bca-a608-0a9a01b6efea?view-mode=preview" target="_blank" rel="noopener" title=""><strong title="">CÓDIGO BÁSICO</strong></a></p>
+<p><strong>ESQUEMA:</strong></p>
+<p><img src="{{context_path}}/content/resources/mceclip4.png" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>
+<ul>
+<li title="">Buscar en internet outra melodías para reproducir (palabras clave: arduino buzzer music) ou ben emprega <a href="https://app.arduino.cc/sketches/cceb4523-4b4c-4882-93d8-3905f52981ff?view-mode=preview" target="_blank" rel="noopener">esta</a>.<br /></li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780871589942-m0vjneciu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamento","textTextarea":"<p><strong>OBXECTIVO:</strong></p>\n<ul>\n<li>Cando premamos un pulsador colocado no porto 4, un zoador conectado ao porto 2 reproducirá unha serie de notas musicais.</li>\n</ul>\n<p><a href=\"https://app.arduino.cc/sketches/153fb3a4-ab53-4bca-a608-0a9a01b6efea?view-mode=preview\" target=\"_blank\" rel=\"noopener\" title=\"\"><strong title=\"\">CÓDIGO BÁSICO</strong></a></p>\n<p><strong>ESQUEMA:</strong></p>\n<p><img src=\"{{context_path}}/content/resources/mceclip4.png\" style=\"display: block; margin-left: auto; margin-right: auto;\" /></p>\n<p><strong>ACTIVIDADE FINAL A ENTREGAR:</strong></p>\n<ul>\n<li title=\"\">Buscar en internet outra melodías para reproducir (palabras clave: arduino buzzer music) ou ben emprega <a href=\"https://app.arduino.cc/sketches/cceb4523-4b4c-4882-93d8-3905f52981ff?view-mode=preview\" target=\"_blank\" rel=\"noopener\">esta</a>.<br /></li>\n</ul>","textFeedbackInput":"Amosar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
