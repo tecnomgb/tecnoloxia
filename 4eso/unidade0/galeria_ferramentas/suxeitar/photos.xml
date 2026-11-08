@@ -1,0 +1,91 @@
+<gallery
+base = ""
+background = "#666666"
+banner = "#CCCCCC"
+text = "#000066"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "12/09/2008">
+	<sitename>Para suxeitar empregamos ...</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#CCCCCC"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#CCCCCC" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#CCCCCC" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "alicates_de_presion.jpg"
+width = "350"
+height = "263"
+thumbpath = "alicates_de_presion.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "alicates_de_suxeccion.jpg"
+width = "350"
+height = "262"
+thumbpath = "alicates_de_suxeccion.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "alicates_universal.jpg"
+width = "350"
+height = "262"
+thumbpath = "alicates_universal.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "entenalla.jpg"
+width = "350"
+height = "262"
+thumbpath = "entenalla.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "mordazas_pico_de_loro.jpg"
+width = "350"
+height = "234"
+thumbpath = "mordazas_pico_de_loro.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "parafuso_de_banco.jpg"
+width = "350"
+height = "234"
+thumbpath = "parafuso_de_banco.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "sarxento.jpg"
+width = "350"
+height = "262"
+thumbpath = "sarxento.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>

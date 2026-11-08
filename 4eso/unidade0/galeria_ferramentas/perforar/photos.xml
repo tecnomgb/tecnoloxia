@@ -1,0 +1,91 @@
+<gallery
+base = ""
+background = "#666666"
+banner = "#CCCCCC"
+text = "#000066"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "12/09/2008">
+	<sitename>Para perforar empregamos ...</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#CCCCCC"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#CCCCCC" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#CCCCCC" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "berbiqui.jpg"
+width = "350"
+height = "262"
+thumbpath = "berbiqui.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "brocas.jpg"
+width = "350"
+height = "261"
+thumbpath = "brocas.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+</image>
+
+
+<image
+path = "dremel.jpg"
+width = "350"
+height = "262"
+thumbpath = "dremel.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "punzon.jpg"
+width = "350"
+height = "262"
+thumbpath = "punzon.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "trade.jpg"
+width = "262"
+height = "350"
+thumbpath = "trade.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "trade_columna.jpg"
+width = "234"
+height = "350"
+thumbpath = "trade_columna.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "trade_electrico.jpg"
+width = "350"
+height = "262"
+thumbpath = "trade_electrico.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>

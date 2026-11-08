@@ -1,0 +1,275 @@
+@charset "utf-8";
+
+/* FOLLA ESTILOS WEB FERRAMENTAS */
+
+body {
+	margin: 0;
+	background-color: #666666;
+}
+
+table {
+	border-collapse: collapse;
+	border: none;
+	text-align:left;
+}
+
+/*ESTILOS TEXTOS*/
+
+/* Texto cabeceira */
+h1 {
+	font-family:Arial;
+	font-size:28px;
+	color:#000066;
+	font-weight:bold;
+	display:inline;
+}
+
+/* Texto corpo */
+h2	{
+	font-family:Arial;
+	font-size:12px;
+	color:#000066;
+	font-weight:normal;
+}
+
+/* Titulos corpo */
+h3	{
+	font-family:Arial;
+	font-size:20px;
+	color:#000066;
+	font-weight:bold;
+
+}
+
+
+/*CARACTERÍSTICAS VÍNCULOS*/
+
+/*Vínculos xerais*/
+
+A:link {
+	color: #3333FF;
+	font-weight: normal;
+	text-decoration: none;
+}
+A:visited {
+	color: #FF6600;
+	font-weight: normal;
+	text-decoration: none;
+}
+A:active {
+	color: #FF6600;
+	font-weight: normal;
+	text-decoration: none;
+}
+A:hover {
+	text-decoration: underline;
+	color: #FF6600;
+	font-weight: normal;
+}
+
+/*Vínculos menú principal*/
+
+A.elementosmenu:link {
+	text-decoration: none;
+	color: #3333FF;
+	font-size: 10px;
+	font-weight: normal;
+	}
+A.elementosmenu:visited {
+	text-decoration: none;
+	color: #FF6600;
+	font-size: 10px;
+	font-weight: normal;
+}
+A.elementosmenu:active {
+	text-decoration: none;
+	color: #FF6600;
+	font-size: 10px;
+	font-weight: normal;
+}
+A.elementosmenu:hover {
+	text-decoration: underline;
+	color: #FF6600;
+	font-size: 10px;
+	font-weight: normal;
+}
+
+/*Vínculos menús galerias*/
+
+
+#scrollbar {
+	scrollbar-face-color: #CCCCCC;
+	scrollbar-highlight-color: #CCCCCC ;
+	scrollbar-3dlight-color: #CCCCCC ;
+	scrollbar-darkshadow-color: #CCCCCC ;
+	scrollbar-arrow-color: #CCCCCC ;
+	scrollbar-track-color: #CCCCCC ;
+	color: #CCCCCC ;
+	background-color: #666666 ;
+}
+	
+	
+	
+#taboaprincipal {
+	width: 100%;
+	height: 100%;
+	border:none;
+}
+
+#cabeceira {
+	width: auto;
+	height: 100px;
+	font-family: Arial;
+	border: none;
+	margin-left: 10px;
+	padding-right: 10px;
+}
+
+#taboacabeceira {
+	width: auto;
+	border: none;
+	vertical-align: middle;
+	padding-left: 8px;
+	clip: rect('8px', 'auto', 'auto', 'auto');
+	margin-left: 8px;
+	text-align: left;
+}
+
+#menuprincipal {
+	height:100%;
+	width: 15%;
+	vertical-align:top;
+	text-align:left;
+	background-color:#666666;
+	
+}
+
+#taboamenuprincipal	{
+	width:150px;
+	height:20px;
+	font-family:Arial;
+	font-size:10px;
+	vertical-align:top;
+	background-color:#CCCCCC;
+	color:#CCCCCC;
+}
+
+.elementomenuppal	{
+	font-family:Arial;
+	font-size:10px;
+	text-align:left;
+	padding-left:7px;
+	padding-right:7px;
+	height:20px;
+	color:#000066;
+}
+
+#taboacorpo	{
+	width:100%;
+	height:100%;
+	font-family:Arial;
+	vertical-align:top;
+	background-color:#CCCCCC;
+}
+
+.celdascorpo {
+	background-position: center;
+	border: 1px solid #ff6600;
+	background-color: #cccccc;
+}
+
+.celdascorpo2 {
+	background-position: center;
+	border: 1px solid #ff6600;
+	background-color: #cccccc;
+	height:6px;
+	width:300px;
+}
+	
+#marxesuperior {
+	height:50px;
+	width:100%;
+	background-color:#666666;
+}
+
+#marxeinferior {
+	height:10px;
+	width:100%;
+	background-color:#666666;
+}
+
+#corpo	{
+	height:100%;
+	width:100%;
+	vertical-align:top;
+	padding-left:20px;
+	padding-right:20px;
+	background-color:#666666;
+}
+
+
+	
+
+/* ESTILOS GALERÍAS FOTOS*/
+
+#mainCenter {
+	height:100%;
+}
+
+a 			{ text-decoration: none; font-weight:normal;} 
+a:hover		{ text-decoration: underline; }
+
+.banner {
+	color:#000066;
+}
+
+.banner .title{
+	font-weight:bold;
+}
+
+.banner .date{
+	font-size:0.9em;
+	font-weight:bold;
+}
+
+.navigation{
+	font-size:0.9em;
+	font-weight:bold;
+}
+.thumbnail{
+	color:#000066;
+	font-size:0.9em;
+}
+
+#content {
+	width:95%;
+	font-size:11px;
+	font-family: arial, Trebuchet MS, verdana;
+	color: #000066;
+	border-bottom:1px dotted #333333;
+	padding-top:6px;
+	padding-bottom:6px;
+}
+
+#content .header{
+	font-size:9px;
+	font-weight:bold;
+	color: #333333;
+}
+
+#contentLast {
+	width:95%;
+	font-size:11px;
+	font-family: arial, Trebuchet MS, verdana;
+	color: #333333;
+	padding-top:6px;
+}
+
+#contentLast .header{
+	font-size:9px;
+	font-weight:bold;
+	color: #999;
+}
+
+
+	

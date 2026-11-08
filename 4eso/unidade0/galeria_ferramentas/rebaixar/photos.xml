@@ -1,0 +1,111 @@
+<gallery
+base = ""
+background = "#666666"
+banner = "#CCCCCC"
+text = "#000066"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "14/09/2008">
+	<sitename>Para rebaixar empregamos ...</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#CCCCCC"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#CCCCCC" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#CCCCCC" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "cepillo_de_aramios.jpg"
+width = "350"
+height = "262"
+thumbpath = "cepillo_de_aramios.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cepillo_de_carpinteiro.jpg"
+width = "350"
+height = "234"
+thumbpath = "cepillo_de_carpinteiro.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "escofina.jpg"
+width = "350"
+height = "262"
+thumbpath = "escofina.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "escoplo.jpg"
+width = "350"
+height = "234"
+thumbpath = "escoplo.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "formon.jpg"
+width = "350"
+height = "262"
+thumbpath = "formon.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "gubia.jpg"
+width = "350"
+height = "262"
+thumbpath = "gubia.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "lima.jpg"
+width = "350"
+height = "234"
+thumbpath = "lima.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "papel_de_lixa.jpg"
+width = "350"
+height = "234"
+thumbpath = "papel_de_lixa.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "pulidora.jpg"
+width = "350"
+height = "234"
+thumbpath = "pulidora.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+</images>
+</gallery>

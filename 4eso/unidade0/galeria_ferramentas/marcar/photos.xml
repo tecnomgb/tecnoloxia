@@ -1,0 +1,71 @@
+<gallery
+base = ""
+background = "#666666"
+banner = "#CCCCCC"
+text = "#000066"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "12/09/2008">
+	<sitename>Para marcar empregamos ...</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#CCCCCC"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#CCCCCC" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#CCCCCC" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "caixa_de_ingletes.jpg"
+width = "350"
+height = "234"
+thumbpath = "caixa_de_ingletes.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "compas_de_puntas.jpg"
+width = "350"
+height = "262"
+thumbpath = "compas_de_puntas.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "granete.jpg"
+width = "350"
+height = "261"
+thumbpath = "granete.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+</image>
+
+
+<image
+path = "lapis_de_carpinteiro.jpg"
+width = "350"
+height = "263"
+thumbpath = "lapis_de_carpinteiro.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "punta_de_trazar.jpg"
+width = "350"
+height = "262"
+thumbpath = "punta_de_trazar.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>

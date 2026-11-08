@@ -1,0 +1,141 @@
+<gallery
+base = ""
+background = "#666666"
+banner = "#CCCCCC"
+text = "#000066"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "12/09/2008">
+	<sitename>Para cortar empregamos ...</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#CCCCCC"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#CCCCCC" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#CCCCCC" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "alicates_de_corte.jpg"
+width = "350"
+height = "263"
+thumbpath = "alicates_de_corte.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "alicates_pelacables.jpg"
+width = "350"
+height = "262"
+thumbpath = "alicates_pelacables.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "alicates_universal.jpg"
+width = "350"
+height = "262"
+thumbpath = "alicates_universal.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cutter.jpg"
+width = "350"
+height = "261"
+thumbpath = "cutter.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+</image>
+
+
+<image
+path = "serra_de_arco.jpg"
+width = "350"
+height = "262"
+thumbpath = "serra_de_arco.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "serra_de_calar.jpg"
+width = "350"
+height = "262"
+thumbpath = "serra_de_calar.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "serra_de_marqueteria.jpg"
+width = "350"
+height = "263"
+thumbpath = "serra_de_marqueteria.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "serron.jpg"
+width = "350"
+height = "234"
+thumbpath = "serron.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "serron_de_costela.jpg"
+width = "350"
+height = "234"
+thumbpath = "serron_de_costela.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "serron_de_punta.jpg"
+width = "350"
+height = "262"
+thumbpath = "serron_de_punta.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "tesoiras_de_chapa.jpg"
+width = "350"
+height = "262"
+thumbpath = "tesoiras_de_chapa.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "tesoiras_de_electricista.jpg"
+width = "350"
+height = "262"
+thumbpath = "tesoiras_de_electricista.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>

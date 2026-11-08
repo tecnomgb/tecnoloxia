@@ -1,0 +1,71 @@
+<gallery
+base = ""
+background = "#666666"
+banner = "#CCCCCC"
+text = "#000066"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "12/09/2008">
+	<sitename>Mobiliario básico...</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#CCCCCC"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#CCCCCC" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#CCCCCC" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "banco_de_traballo.jpg"
+width = "350"
+height = "224"
+thumbpath = "banco_de_traballo.jpg"
+thumbwidth = "75"
+thumbheight = "48">
+</image>
+
+
+<image
+path = "botiquin.jpg"
+width = "265"
+height = "350"
+thumbpath = "botiquin.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "caixa_clasificadora.jpg"
+width = "261"
+height = "350"
+thumbpath = "caixa_clasificadora.jpg"
+thumbwidth = "56"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "fonte_de_alimentacion.jpg"
+width = "350"
+height = "234"
+thumbpath = "fonte_de_alimentacion.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "panel_de_ferramentas.jpg"
+width = "350"
+height = "261"
+thumbpath = "panel_de_ferramentas.jpg"
+thumbwidth = "75"
+thumbheight = "55">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,91 @@
+<gallery
+base = ""
+background = "#666666"
+banner = "#CCCCCC"
+text = "#000066"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "12/09/2008">
+	<sitename>Para golpear empregamos ...</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Arial" fontsize = "3" color =  "#CCCCCC"> </banner>
+<thumbnail base ="thumbnails/" font = "Arial" fontsize = "4" color = "#CCCCCC" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "Arial" fontsize = "3" color = "#CCCCCC" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "botador.jpg"
+width = "350"
+height = "262"
+thumbpath = "botador.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "buril.jpg"
+width = "350"
+height = "262"
+thumbpath = "buril.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "cicel.jpg"
+width = "350"
+height = "263"
+thumbpath = "cicel.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "martelo_de_bola.jpg"
+width = "350"
+height = "263"
+thumbpath = "martelo_de_bola.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "martelo_de_orellas.jpg"
+width = "350"
+height = "262"
+thumbpath = "martelo_de_orellas.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "martelo_de_pena.jpg"
+width = "350"
+height = "262"
+thumbpath = "martelo_de_pena.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+
+<image
+path = "maza_de_nailon.jpg"
+width = "350"
+height = "261"
+thumbpath = "maza_de_nailon.jpg"
+thumbwidth = "75"
+thumbheight = "56">
+</image>
+
+</images>
+</gallery>
